@@ -1,0 +1,14 @@
+C:\Users\bodyk\source\repos\liear\liear\bin\Debug\net7.0\liear.exe
+C:\Users\bodyk\source\repos\liear\liear\bin\Debug\net7.0\liear.deps.json
+C:\Users\bodyk\source\repos\liear\liear\bin\Debug\net7.0\liear.runtimeconfig.json
+C:\Users\bodyk\source\repos\liear\liear\bin\Debug\net7.0\liear.dll
+C:\Users\bodyk\source\repos\liear\liear\bin\Debug\net7.0\liear.pdb
+C:\Users\bodyk\source\repos\liear\liear\obj\Debug\net7.0\liear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodyk\source\repos\liear\liear\obj\Debug\net7.0\liear.AssemblyInfoInputs.cache
+C:\Users\bodyk\source\repos\liear\liear\obj\Debug\net7.0\liear.AssemblyInfo.cs
+C:\Users\bodyk\source\repos\liear\liear\obj\Debug\net7.0\liear.csproj.CoreCompileInputs.cache
+C:\Users\bodyk\source\repos\liear\liear\obj\Debug\net7.0\liear.dll
+C:\Users\bodyk\source\repos\liear\liear\obj\Debug\net7.0\refint\liear.dll
+C:\Users\bodyk\source\repos\liear\liear\obj\Debug\net7.0\liear.pdb
+C:\Users\bodyk\source\repos\liear\liear\obj\Debug\net7.0\liear.genruntimeconfig.cache
+C:\Users\bodyk\source\repos\liear\liear\obj\Debug\net7.0\ref\liear.dll
